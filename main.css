@@ -1577,8 +1577,8 @@
   position: absolute;
   bottom: 100px;
   left: 50px;
-  width: 600px;
-  height: 600px;
+  width: 300px;
+  height: 300px;
   background: var(--jumping-gif) center/80% no-repeat;
 }
 :root #permissions-modal-wrapper #permissions-modal {
@@ -1645,7 +1645,7 @@
     bottom: 85px;
     right: 70px;
     z-index: -1;
-    width: 300px;
+    width: 600px;
     border-radius: var(--border-radius);
     background: var(--jumping-gif) bottom/40% no-repeat;
   }
