@@ -1623,7 +1623,7 @@
   .container-1eFtFS::after {
     content: "Stay comfy";
     position: fixed;
-    top: 220px;
+    top: 280px;
     bottom: 85px;
     right: 60px;
     z-index: -2;
@@ -1643,7 +1643,7 @@
     position: fixed;
     top: 220px;
     bottom: 85px;
-    right: 0px;
+    right: -20px;
     z-index: -1;
     width: 500px;
     border-radius: var(--border-radius);
