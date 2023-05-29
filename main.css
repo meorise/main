@@ -1644,7 +1644,7 @@
     bottom: 85px;
     right: 70px;
     z-index: -1;
-    width: 600px;
+    width: 500px;
     border-radius: var(--border-radius);
     background: var(--jumping-gif) bottom/40% no-repeat;
   }
