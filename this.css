@@ -1643,7 +1643,7 @@
     position: fixed;
     top: 220px;
     bottom: 85px;
-    right: -40px;
+    right: -30px;
     z-index: -1;
     width: 500px;
     border-radius: var(--border-radius);
