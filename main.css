@@ -1646,7 +1646,7 @@
     z-index: -1;
     width: 600px;
     border-radius: var(--border-radius);
-    background: var(--jumping-gif) bottom/80% no-repeat;
+    background: var(--jumping-gif) bottom/40% no-repeat;
   }
   .guilds-2JjMmN + :nth-child(2) {
     margin-right: 450px;
