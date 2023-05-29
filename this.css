@@ -1643,11 +1643,11 @@
     position: fixed;
     top: 220px;
     bottom: 85px;
-    right: 40px;
+    right: -20px;
     z-index: -1;
     width: 500px;
     border-radius: var(--border-radius);
-    background: var(--jumping-gif) bottom/40% no-repeat;
+    background: var(--jumping-gif) bottom/50% no-repeat;
   }
   .guilds-2JjMmN + :nth-child(2) {
     margin-right: 450px;
